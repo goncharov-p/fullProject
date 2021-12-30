@@ -1,0 +1,126 @@
+app{
+  position: relative;
+  width: 989px;
+  height: 707px;
+  background: rgba(197, 233, 255, 0.72);
+}
+
+
+header{
+  background: #C5E9FF;
+  position: absolute;
+  width: 989px;
+  height: 117px;
+  left: 0px;
+  top: 0px;
+  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.svg-header{
+position: absolute;
+left: 8.16%;
+right: 8.28%;
+top: 8.32%;
+bottom: 8.16%;
+}
+
+.Header-h1{
+  position: absolute;
+width: 300px;
+height: 42px;
+left: 208px;
+top: 37px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+}
+
+.svg-body{
+  position: absolute;
+  left: 8.33%;
+  right: 8.33%;
+  top: 12.5%;
+  bottom: 12.5%;
+}
+
+.box-body-svg{
+position: absolute;
+width: 450px;
+height: 500px;
+left: 69px;
+top: 138px;
+}
+
+.body-table{
+display: flex;
+flex-direction: column;
+position: absolute;
+width: 400.5px;
+height: 453px;
+left: 532.5px;
+top: 158px;
+background: #FFFFFF;
+border-radius: 4px;
+}
+
+.body-h1{
+  width: 273px;
+  height: 42px;
+  left: 596px;
+  top: 198px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 42px;
+  
+  color: #000000;
+}
+
+button{
+width: 149px;
+height: 40px;
+left: 747px;
+top: 476px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.2);
+box-sizing: border-box;
+border-radius: 4px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+}
+
+input{
+  width: 321px;
+height: 40px;
+left: 575px;
+top: 309px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.2);
+box-sizing: border-box;
+border-radius: 4px; 
+}
+
+p{
+width: 48px;
+height: 21px;
+left: 575px;
+top: 280px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+}
